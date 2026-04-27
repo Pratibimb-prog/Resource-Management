@@ -80,5 +80,5 @@ When you click **Predict**, the AI calculates a demand score and provides action
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the ISC License.
