@@ -1,3 +1,6 @@
+# Resource Management System Architecture
+
+```mermaid
 flowchart TD
 
 subgraph group_ui["Browser / UI"]
@@ -72,32 +75,6 @@ node_app_js -->|"serves"| node_dashboard_html
 node_resource_controller -->|"feeds dashboard"| node_resource_model
 node_resources_json -.->|"seeds"| node_resource_model
 
-click node_server_js "https://github.com/pratibimb-prog/resource-management/blob/main/server.js"
-click node_app_js "https://github.com/pratibimb-prog/resource-management/blob/main/src/app.js"
-click node_db_js "https://github.com/pratibimb-prog/resource-management/blob/main/src/config/db.js"
-click node_auth_routes "https://github.com/pratibimb-prog/resource-management/blob/main/src/routes/authRoutes.js"
-click node_resource_routes "https://github.com/pratibimb-prog/resource-management/blob/main/src/routes/resourceRoutes.js"
-click node_user_routes "https://github.com/pratibimb-prog/resource-management/blob/main/src/routes/userRoutes.js"
-click node_auth_controller "https://github.com/pratibimb-prog/resource-management/blob/main/src/controllers/authController.js"
-click node_resource_controller "https://github.com/pratibimb-prog/resource-management/blob/main/src/controllers/resourceController.js"
-click node_user_controller "https://github.com/pratibimb-prog/resource-management/blob/main/src/controllers/userController.js"
-click node_auth_middleware "https://github.com/pratibimb-prog/resource-management/blob/main/src/middleware/authMiddleware.js"
-click node_error_middleware "https://github.com/pratibimb-prog/resource-management/blob/main/src/middleware/errorMiddleware.js"
-click node_user_model "https://github.com/pratibimb-prog/resource-management/blob/main/src/models/User.js"
-click node_resource_model "https://github.com/pratibimb-prog/resource-management/blob/main/src/models/Resource.js"
-click node_helpers_js "https://github.com/pratibimb-prog/resource-management/blob/main/src/utils/helpers.js"
-click node_ml_service "https://github.com/pratibimb-prog/resource-management/blob/main/src/services/mlService.js"
-click node_index_html "https://github.com/pratibimb-prog/resource-management/blob/main/public/index.html"
-click node_dashboard_html "https://github.com/pratibimb-prog/resource-management/blob/main/public/dashboard.html"
-click node_api_js "https://github.com/pratibimb-prog/resource-management/blob/main/public/js/api.js"
-click node_auth_js "https://github.com/pratibimb-prog/resource-management/blob/main/public/js/auth.js"
-click node_dashboard_js "https://github.com/pratibimb-prog/resource-management/blob/main/public/js/dashboard.js"
-click node_style_css "https://github.com/pratibimb-prog/resource-management/blob/main/public/css/style.css"
-click node_ml_app "https://github.com/pratibimb-prog/resource-management/blob/main/ml/app.py"
-click node_train_py "https://github.com/pratibimb-prog/resource-management/blob/main/ml/train.py"
-click node_model_pkl "https://github.com/pratibimb-prog/resource-management/blob/main/ml/model.pkl"
-click node_resources_json "https://github.com/pratibimb-prog/resource-management/blob/main/resources.json"
-
 classDef toneNeutral fill:#f8fafc,stroke:#334155,stroke-width:1.5px,color:#0f172a
 classDef toneBlue fill:#dbeafe,stroke:#2563eb,stroke-width:1.5px,color:#172554
 classDef toneAmber fill:#fef3c7,stroke:#d97706,stroke-width:1.5px,color:#78350f
@@ -105,6 +82,7 @@ classDef toneMint fill:#dcfce7,stroke:#16a34a,stroke-width:1.5px,color:#14532d
 classDef toneRose fill:#ffe4e6,stroke:#e11d48,stroke-width:1.5px,color:#881337
 classDef toneIndigo fill:#e0e7ff,stroke:#4f46e5,stroke-width:1.5px,color:#312e81
 classDef toneTeal fill:#ccfbf1,stroke:#0f766e,stroke-width:1.5px,color:#134e4a
+
 class node_index_html,node_dashboard_html,node_api_js,node_auth_js,node_dashboard_js,node_style_css toneBlue
 class node_server_js,node_app_js,node_auth_routes,node_resource_routes,node_user_routes,node_auth_controller,node_resource_controller,node_user_controller,node_auth_middleware,node_error_middleware,node_helpers_js,node_ml_service toneAmber
 class node_db_js,node_user_model,node_resource_model toneMint
