@@ -1,4 +1,4 @@
-# ⚡ Smart Resource Management (SRM)
+# Smart Resource Management (SRM)
 
 A full-stack, AI-powered dashboard for managing resources and predicting demand using Machine Learning.
 
