@@ -7,19 +7,19 @@ A full-stack, AI-powered dashboard for managing resources and predicting demand 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-RandomForest-orange)
 
-## 🚀 Overview
+## Overview
 
 Smart Resource Management (SRM) is a professional-grade application designed to optimize resource allocation. It combines a robust **Node.js/Express** backend with a **Python Flask** microservice that uses a **RandomForestClassifier** to predict resource demand based on current utilization, priority, and status.
 
-### ✨ Key Features
-- **📊 Real-time Dashboard**: Monitor total, available, and depleted resources at a glance.
-- **🤖 AI Demand Prediction**: High-precision ML model predicts demand levels (Low, Medium, High, Critical).
-- **🔒 Secure Authentication**: JWT-based authentication with role-based access control (Admin/Viewer).
-- **🎨 Premium UI**: A modern, minimal design using a White, Green, and Red color palette for maximum clarity.
+### Key Features
+- **Real-time Dashboard**: Monitor total, available, and depleted resources at a glance.
+- **AI Demand Prediction**: High-precision ML model predicts demand levels (Low, Medium, High, Critical).
+- **Secure Authentication**: JWT-based authentication with role-based access control (Admin/Viewer).
+- **Premium UI**: A modern, minimal design using a White, Green, and Red color palette for maximum clarity.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend**: Node.js, Express, MongoDB, Mongoose
 - **Frontend**: Vanilla JS (ES6+), Modern CSS (Flexbox/Grid), Glassmorphism components
@@ -28,7 +28,7 @@ Smart Resource Management (SRM) is a professional-grade application designed to 
 
 ---
 
-## 🏗️ Getting Started
+## Getting Started
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) installed
@@ -60,7 +60,7 @@ python app.py
 
 ---
 
-## 🧠 How the AI Works
+## How the AI Works
 
 The ML model predicts demand by analyzing 5 features:
 1. **Utilization**: Ratio of Quantity vs Allocation Limit (Highest weight).
@@ -72,7 +72,7 @@ When you click **Predict**, the AI calculates a demand score and provides action
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 - `src/`: Express backend (Models, Controllers, Routes).
 - `public/`: Frontend static files (Dashboard, Auth, Styles).
 - `ml/`: Python microservice and trained model (`model.pkl`).
