@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+dist/
+
+# Environment variables (Sensitive)
+.env
+
+# Python
+__pycache__/
+*.pyc
+ml/venv/
+
+# OS files
+.DS_Store
+Thumbs.db

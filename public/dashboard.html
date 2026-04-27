@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+  <title>Dashboard — Smart Resource Management</title>
+  <meta name="description" content="Manage and predict resource demand with AI-powered insights." />
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+
+<body class="dash-page">
+
+  <!-- ═══════ NAVBAR ═══════ -->
+  <nav class="navbar">
+    <div class="nav-brand">
+      <div class="nav-logo">SRM</div>
+      <div>
+        <div class="nav-title">Smart Resource <span>Management</span></div>
+      </div>
+    </div>
+    <div class="nav-right">
+      <div class="nav-user">
+        <div class="nav-avatar" id="nav-avatar">U</div>
+        <div class="nav-info">
+          <div class="nav-name" id="nav-name">—</div>
+          <div class="nav-role" id="nav-role">—</div>
+        </div>
+      </div>
+      <button class="nav-logout" id="logout-btn" title="Log out">
+        ⬡ Logout
+      </button>
+    </div>
+  </nav>
+
+  <!-- ═══════ MAIN ═══════ -->
+  <main class="dash-main" id="dash-main">
+
+    <!-- Stats row -->
+    <div class="stats-grid" id="stats-grid">
+      <div class="stat-card animate-fade-up">
+        <div class="stat-icon blue"></div>
+        <div>
+          <div class="stat-val" id="stat-total">—</div>
+          <div class="stat-lbl">Total Resources</div>
+        </div>
+      </div>
+      <div class="stat-card animate-fade-up delay-1">
+        <div class="stat-icon green"></div>
+        <div>
+          <div class="stat-val" id="stat-available">—</div>
+          <div class="stat-lbl">Available</div>
+        </div>
+      </div>
+      <div class="stat-card animate-fade-up delay-2">
+        <div class="stat-icon yellow"></div>
+        <div>
+          <div class="stat-val" id="stat-inuse">—</div>
+          <div class="stat-lbl">In Use</div>
+        </div>
+      </div>
+      <div class="stat-card animate-fade-up delay-3">
+        <div class="stat-icon red"></div>
+        <div>
+          <div class="stat-val" id="stat-depleted">—</div>
+          <div class="stat-lbl">Depleted</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Controls -->
+    <div class="controls animate-fade-up delay-4">
+      <div class="input-wrap">
+        <span class="icon"></span>
+        <input id="search-input" class="field search-field" type="text" placeholder="Search by name or type…" />
+      </div>
+      <select id="filter-status" class="field" style="width:auto;min-width:140px">
+        <option value="">All Statuses</option>
+        <option value="available">Available</option>
+        <option value="in-use">In Use</option>
+        <option value="depleted">Depleted</option>
+      </select>
+      <select id="filter-priority" class="field" style="width:auto;min-width:150px">
+        <option value="">All Priorities</option>
+        <option value="low">Low</option>
+        <option value="medium">Medium</option>
+        <option value="high">High</option>
+        <option value="critical">Critical</option>
+      </select>
+      <!-- Only visible to admins -->
+      <button class="btn btn-primary admin-only hidden" id="add-resource-btn">
+        ＋ Add Resource
+      </button>
+    </div>
+
+    <!-- Resources Table -->
+    <div class="table-card animate-fade-up" style="animation-delay:.35s">
+      <div class="table-header">
+        <div>
+          <div class="h3">Resources</div>
+          <div class="tiny muted" id="resource-count">Loading…</div>
+        </div>
+        <button class="btn btn-ghost btn-sm" id="refresh-btn" title="Refresh">↻ Refresh</button>
+      </div>
+      <div class="table-wrap">
+        <table id="resource-table">
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Type</th>
+              <th>Quantity</th>
+              <th>Status</th>
+              <th>Priority</th>
+              <th>Alloc. Limit</th>
+              <th style="text-align:right">Actions</th>
+            </tr>
+          </thead>
+          <tbody id="resource-tbody">
+            <!-- Rows injected by dashboard.js -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- ═══════ ML PREDICTION PANEL ═══════ -->
+  <aside class="predict-panel" id="predict-panel">
+    <div class="panel-header">
+      <div class="panel-icon">AI</div>
+      <div>
+        <div class="panel-title">ML Demand Prediction</div>
+        <div class="panel-sub" id="panel-resource-name">—</div>
+      </div>
+      <button class="panel-close" id="panel-close" title="Close">✕</button>
+    </div>
+    <div class="panel-body" id="panel-body">
+      <!-- Injected by dashboard.js -->
+    </div>
+  </aside>
+
+  <!-- ═══════ ADD RESOURCE MODAL ═══════ -->
+  <div class="modal-backdrop" id="modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal">
+      <div class="modal-head">
+        <h2 class="modal-title" id="modal-title">Add New Resource</h2>
+        <button class="modal-close" id="modal-close" aria-label="Close modal">✕</button>
+      </div>
+      <form id="resource-form" novalidate>
+        <div class="form-row two-col">
+          <div class="form-field">
+            <label for="r-name">Name *</label>
+            <input id="r-name" class="field" type="text" placeholder="e.g. GPU Cluster" required />
+          </div>
+          <div class="form-field">
+            <label for="r-type">Type *</label>
+            <input id="r-type" class="field" type="text" placeholder="e.g. Compute" required />
+          </div>
+        </div>
+        <div class="form-row two-col">
+          <div class="form-field">
+            <label for="r-quantity">Quantity</label>
+            <input id="r-quantity" class="field" type="number" min="0" placeholder="0" />
+          </div>
+          <div class="form-field">
+            <label for="r-alloc">Allocation Limit</label>
+            <input id="r-alloc" class="field" type="number" min="1" placeholder="100" />
+          </div>
+        </div>
+        <div class="form-row two-col">
+          <div class="form-field">
+            <label for="r-status">Status</label>
+            <select id="r-status" class="field">
+              <option value="available">Available</option>
+              <option value="in-use">In Use</option>
+              <option value="depleted">Depleted</option>
+            </select>
+          </div>
+          <div class="form-field">
+            <label for="r-priority">Priority</label>
+            <select id="r-priority" class="field">
+              <option value="low">Low</option>
+              <option value="medium">Medium</option>
+              <option value="high">High</option>
+              <option value="critical">Critical</option>
+            </select>
+          </div>
+        </div>
+        <div class="modal-actions">
+          <button type="button" class="btn btn-ghost" id="modal-cancel">Cancel</button>
+          <button type="submit" class="btn btn-primary" id="modal-submit">
+            Create Resource
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- ═══════ TOAST CONTAINER ═══════ -->
+  <div id="toast-container" aria-live="polite"></div>
+
+  <script src="/js/api.js"></script>
+  <script src="/js/dashboard.js"></script>
+</body>
+
+</html>

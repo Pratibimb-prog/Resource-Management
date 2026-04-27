@@ -1,0 +1,7002 @@
+[
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 71,
+    "location": "Mumbai",
+    "demand": 90
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 257,
+    "location": "Chennai",
+    "demand": 282
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 230,
+    "location": "Kolkata",
+    "demand": 339
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 264,
+    "location": "Mumbai",
+    "demand": 280
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 236,
+    "location": "Bangalore",
+    "demand": 255
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 86,
+    "location": "Kolkata",
+    "demand": 178
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 32,
+    "location": "Bangalore",
+    "demand": 63
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 114,
+    "location": "Chennai",
+    "demand": 187
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 120,
+    "location": "Chennai",
+    "demand": 131
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 49,
+    "location": "Delhi",
+    "demand": 94
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 153,
+    "location": "Chennai",
+    "demand": 221
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 195,
+    "location": "Chennai",
+    "demand": 259
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 56,
+    "location": "Kolkata",
+    "demand": 68
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 48,
+    "location": "Kolkata",
+    "demand": 87
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 188,
+    "location": "Bangalore",
+    "demand": 195
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 22,
+    "location": "Chennai",
+    "demand": 60
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 223,
+    "location": "Bangalore",
+    "demand": 332
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 65,
+    "location": "Kolkata",
+    "demand": 156
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 56,
+    "location": "Bangalore",
+    "demand": 102
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 116,
+    "location": "Mumbai",
+    "demand": 193
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 21,
+    "location": "Mumbai",
+    "demand": 52
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 59,
+    "location": "Mumbai",
+    "demand": 90
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 391,
+    "location": "Delhi",
+    "demand": 546
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 237,
+    "location": "Bangalore",
+    "demand": 269
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 10,
+    "location": "Delhi",
+    "demand": 16
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 62,
+    "location": "Bangalore",
+    "demand": 89
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 32,
+    "location": "Kolkata",
+    "demand": 75
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 11,
+    "location": "Delhi",
+    "demand": 39
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 134,
+    "location": "Mumbai",
+    "demand": 176
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 126,
+    "location": "Delhi",
+    "demand": 155
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 174,
+    "location": "Kolkata",
+    "demand": 370
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 108,
+    "location": "Mumbai",
+    "demand": 159
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 41,
+    "location": "Delhi",
+    "demand": 63
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 109,
+    "location": "Kolkata",
+    "demand": 119
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 193,
+    "location": "Mumbai",
+    "demand": 368
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 108,
+    "location": "Bangalore",
+    "demand": 133
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 165,
+    "location": "Delhi",
+    "demand": 226
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 374,
+    "location": "Chennai",
+    "demand": 534
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 8,
+    "location": "Kolkata",
+    "demand": 39
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 85,
+    "location": "Delhi",
+    "demand": 134
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 50,
+    "location": "Mumbai",
+    "demand": 88
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 70,
+    "location": "Chennai",
+    "demand": 104
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 7,
+    "location": "Mumbai",
+    "demand": 25
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 164,
+    "location": "Delhi",
+    "demand": 194
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 187,
+    "location": "Chennai",
+    "demand": 230
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 491,
+    "location": "Kolkata",
+    "demand": 518
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 10,
+    "location": "Chennai",
+    "demand": 52
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 166,
+    "location": "Bangalore",
+    "demand": 194
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 142,
+    "location": "Chennai",
+    "demand": 230
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 91,
+    "location": "Delhi",
+    "demand": 154
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 238,
+    "location": "Mumbai",
+    "demand": 312
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 35,
+    "location": "Kolkata",
+    "demand": 55
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 323,
+    "location": "Bangalore",
+    "demand": 352
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 157,
+    "location": "Mumbai",
+    "demand": 176
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 92,
+    "location": "Mumbai",
+    "demand": 102
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 332,
+    "location": "Bangalore",
+    "demand": 459
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 127,
+    "location": "Chennai",
+    "demand": 152
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 48,
+    "location": "Mumbai",
+    "demand": 113
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 248,
+    "location": "Mumbai",
+    "demand": 285
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 283,
+    "location": "Kolkata",
+    "demand": 304
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 64,
+    "location": "Kolkata",
+    "demand": 88
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 419,
+    "location": "Delhi",
+    "demand": 534
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 405,
+    "location": "Mumbai",
+    "demand": 527
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 102,
+    "location": "Bangalore",
+    "demand": 171
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 11,
+    "location": "Bangalore",
+    "demand": 28
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 108,
+    "location": "Bangalore",
+    "demand": 170
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 31,
+    "location": "Chennai",
+    "demand": 52
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 122,
+    "location": "Bangalore",
+    "demand": 136
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 29,
+    "location": "Mumbai",
+    "demand": 121
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 167,
+    "location": "Bangalore",
+    "demand": 190
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 83,
+    "location": "Bangalore",
+    "demand": 107
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 50,
+    "location": "Kolkata",
+    "demand": 88
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 248,
+    "location": "Delhi",
+    "demand": 326
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 15,
+    "location": "Kolkata",
+    "demand": 96
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 97,
+    "location": "Kolkata",
+    "demand": 184
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 84,
+    "location": "Bangalore",
+    "demand": 97
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 117,
+    "location": "Bangalore",
+    "demand": 191
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 63,
+    "location": "Bangalore",
+    "demand": 229
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 483,
+    "location": "Delhi",
+    "demand": 545
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 87,
+    "location": "Kolkata",
+    "demand": 111
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 290,
+    "location": "Mumbai",
+    "demand": 480
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 59,
+    "location": "Mumbai",
+    "demand": 106
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 79,
+    "location": "Mumbai",
+    "demand": 156
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 25,
+    "location": "Bangalore",
+    "demand": 75
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 198,
+    "location": "Kolkata",
+    "demand": 270
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 359,
+    "location": "Chennai",
+    "demand": 430
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 66,
+    "location": "Kolkata",
+    "demand": 116
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 45,
+    "location": "Mumbai",
+    "demand": 134
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 159,
+    "location": "Kolkata",
+    "demand": 224
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 77,
+    "location": "Delhi",
+    "demand": 148
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 207,
+    "location": "Mumbai",
+    "demand": 394
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 58,
+    "location": "Delhi",
+    "demand": 72
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 168,
+    "location": "Bangalore",
+    "demand": 196
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 240,
+    "location": "Delhi",
+    "demand": 256
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 62,
+    "location": "Delhi",
+    "demand": 104
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 153,
+    "location": "Mumbai",
+    "demand": 161
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 446,
+    "location": "Mumbai",
+    "demand": 544
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 169,
+    "location": "Mumbai",
+    "demand": 210
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 102,
+    "location": "Mumbai",
+    "demand": 130
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 208,
+    "location": "Kolkata",
+    "demand": 233
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 193,
+    "location": "Delhi",
+    "demand": 211
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 327,
+    "location": "Mumbai",
+    "demand": 510
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 150,
+    "location": "Bangalore",
+    "demand": 197
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 81,
+    "location": "Delhi",
+    "demand": 86
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 18,
+    "location": "Delhi",
+    "demand": 28
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 226,
+    "location": "Delhi",
+    "demand": 302
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 108,
+    "location": "Mumbai",
+    "demand": 167
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 52,
+    "location": "Chennai",
+    "demand": 70
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 14,
+    "location": "Bangalore",
+    "demand": 52
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 141,
+    "location": "Mumbai",
+    "demand": 174
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 281,
+    "location": "Chennai",
+    "demand": 477
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 347,
+    "location": "Delhi",
+    "demand": 434
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 79,
+    "location": "Bangalore",
+    "demand": 165
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 226,
+    "location": "Mumbai",
+    "demand": 373
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 461,
+    "location": "Bangalore",
+    "demand": 661
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 71,
+    "location": "Kolkata",
+    "demand": 115
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 31,
+    "location": "Chennai",
+    "demand": 55
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 52,
+    "location": "Bangalore",
+    "demand": 98
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 59,
+    "location": "Kolkata",
+    "demand": 81
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 253,
+    "location": "Delhi",
+    "demand": 280
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 108,
+    "location": "Chennai",
+    "demand": 171
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 387,
+    "location": "Mumbai",
+    "demand": 527
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 47,
+    "location": "Chennai",
+    "demand": 54
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 220,
+    "location": "Kolkata",
+    "demand": 265
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 96,
+    "location": "Chennai",
+    "demand": 117
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 74,
+    "location": "Kolkata",
+    "demand": 124
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 73,
+    "location": "Bangalore",
+    "demand": 94
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 92,
+    "location": "Kolkata",
+    "demand": 161
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 173,
+    "location": "Kolkata",
+    "demand": 284
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 81,
+    "location": "Delhi",
+    "demand": 91
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 170,
+    "location": "Delhi",
+    "demand": 225
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 468,
+    "location": "Delhi",
+    "demand": 653
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 50,
+    "location": "Bangalore",
+    "demand": 84
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 48,
+    "location": "Mumbai",
+    "demand": 54
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 187,
+    "location": "Mumbai",
+    "demand": 248
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 414,
+    "location": "Delhi",
+    "demand": 573
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 28,
+    "location": "Delhi",
+    "demand": 33
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 242,
+    "location": "Delhi",
+    "demand": 276
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 13,
+    "location": "Bangalore",
+    "demand": 33
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 102,
+    "location": "Chennai",
+    "demand": 120
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 90,
+    "location": "Chennai",
+    "demand": 132
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 276,
+    "location": "Bangalore",
+    "demand": 421
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 51,
+    "location": "Bangalore",
+    "demand": 116
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 67,
+    "location": "Chennai",
+    "demand": 102
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 47,
+    "location": "Delhi",
+    "demand": 59
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 105,
+    "location": "Delhi",
+    "demand": 182
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 50,
+    "location": "Chennai",
+    "demand": 131
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 161,
+    "location": "Bangalore",
+    "demand": 237
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 86,
+    "location": "Chennai",
+    "demand": 109
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 39,
+    "location": "Kolkata",
+    "demand": 89
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 165,
+    "location": "Mumbai",
+    "demand": 228
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 395,
+    "location": "Mumbai",
+    "demand": 588
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 279,
+    "location": "Delhi",
+    "demand": 386
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 157,
+    "location": "Mumbai",
+    "demand": 290
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 56,
+    "location": "Bangalore",
+    "demand": 115
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 39,
+    "location": "Delhi",
+    "demand": 107
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 444,
+    "location": "Kolkata",
+    "demand": 514
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 136,
+    "location": "Bangalore",
+    "demand": 224
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 45,
+    "location": "Mumbai",
+    "demand": 69
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 25,
+    "location": "Kolkata",
+    "demand": 105
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 142,
+    "location": "Mumbai",
+    "demand": 212
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 65,
+    "location": "Kolkata",
+    "demand": 79
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 206,
+    "location": "Chennai",
+    "demand": 265
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 58,
+    "location": "Delhi",
+    "demand": 69
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 75,
+    "location": "Delhi",
+    "demand": 80
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 83,
+    "location": "Kolkata",
+    "demand": 112
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 84,
+    "location": "Mumbai",
+    "demand": 117
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 73,
+    "location": "Kolkata",
+    "demand": 87
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 354,
+    "location": "Kolkata",
+    "demand": 530
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 299,
+    "location": "Mumbai",
+    "demand": 340
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 130,
+    "location": "Kolkata",
+    "demand": 160
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 44,
+    "location": "Kolkata",
+    "demand": 79
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 194,
+    "location": "Mumbai",
+    "demand": 207
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 164,
+    "location": "Bangalore",
+    "demand": 222
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 71,
+    "location": "Mumbai",
+    "demand": 82
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 24,
+    "location": "Bangalore",
+    "demand": 97
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 172,
+    "location": "Chennai",
+    "demand": 208
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 63,
+    "location": "Chennai",
+    "demand": 120
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 328,
+    "location": "Chennai",
+    "demand": 450
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 34,
+    "location": "Mumbai",
+    "demand": 73
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 56,
+    "location": "Chennai",
+    "demand": 135
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 403,
+    "location": "Chennai",
+    "demand": 487
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 11,
+    "location": "Chennai",
+    "demand": 29
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 13,
+    "location": "Delhi",
+    "demand": 105
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 224,
+    "location": "Mumbai",
+    "demand": 257
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 132,
+    "location": "Bangalore",
+    "demand": 160
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 146,
+    "location": "Mumbai",
+    "demand": 188
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 270,
+    "location": "Kolkata",
+    "demand": 317
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 148,
+    "location": "Bangalore",
+    "demand": 271
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 79,
+    "location": "Delhi",
+    "demand": 102
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 74,
+    "location": "Kolkata",
+    "demand": 167
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 81,
+    "location": "Mumbai",
+    "demand": 131
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 153,
+    "location": "Kolkata",
+    "demand": 263
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 267,
+    "location": "Bangalore",
+    "demand": 279
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 111,
+    "location": "Delhi",
+    "demand": 150
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 88,
+    "location": "Chennai",
+    "demand": 120
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 83,
+    "location": "Mumbai",
+    "demand": 130
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 311,
+    "location": "Kolkata",
+    "demand": 463
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 243,
+    "location": "Bangalore",
+    "demand": 317
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 27,
+    "location": "Chennai",
+    "demand": 58
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 193,
+    "location": "Mumbai",
+    "demand": 219
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 22,
+    "location": "Chennai",
+    "demand": 115
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 30,
+    "location": "Bangalore",
+    "demand": 67
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 35,
+    "location": "Kolkata",
+    "demand": 82
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 442,
+    "location": "Mumbai",
+    "demand": 588
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 76,
+    "location": "Mumbai",
+    "demand": 121
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 32,
+    "location": "Bangalore",
+    "demand": 40
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 435,
+    "location": "Chennai",
+    "demand": 465
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 68,
+    "location": "Bangalore",
+    "demand": 139
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 69,
+    "location": "Delhi",
+    "demand": 106
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 102,
+    "location": "Chennai",
+    "demand": 156
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 119,
+    "location": "Delhi",
+    "demand": 208
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 200,
+    "location": "Chennai",
+    "demand": 253
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 95,
+    "location": "Mumbai",
+    "demand": 154
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 136,
+    "location": "Delhi",
+    "demand": 175
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 459,
+    "location": "Bangalore",
+    "demand": 590
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 96,
+    "location": "Chennai",
+    "demand": 111
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 112,
+    "location": "Mumbai",
+    "demand": 145
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 182,
+    "location": "Chennai",
+    "demand": 222
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 478,
+    "location": "Mumbai",
+    "demand": 643
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 15,
+    "location": "Chennai",
+    "demand": 58
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 453,
+    "location": "Chennai",
+    "demand": 607
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 101,
+    "location": "Mumbai",
+    "demand": 135
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 179,
+    "location": "Kolkata",
+    "demand": 214
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 93,
+    "location": "Mumbai",
+    "demand": 264
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 252,
+    "location": "Delhi",
+    "demand": 316
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 90,
+    "location": "Mumbai",
+    "demand": 258
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 283,
+    "location": "Kolkata",
+    "demand": 339
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 245,
+    "location": "Mumbai",
+    "demand": 262
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 385,
+    "location": "Delhi",
+    "demand": 507
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 295,
+    "location": "Mumbai",
+    "demand": 325
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 6,
+    "location": "Kolkata",
+    "demand": 33
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 96,
+    "location": "Delhi",
+    "demand": 136
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 372,
+    "location": "Mumbai",
+    "demand": 451
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 129,
+    "location": "Bangalore",
+    "demand": 180
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 117,
+    "location": "Mumbai",
+    "demand": 162
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 388,
+    "location": "Kolkata",
+    "demand": 490
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 464,
+    "location": "Mumbai",
+    "demand": 572
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 58,
+    "location": "Mumbai",
+    "demand": 102
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 43,
+    "location": "Bangalore",
+    "demand": 77
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 180,
+    "location": "Bangalore",
+    "demand": 251
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 103,
+    "location": "Bangalore",
+    "demand": 125
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 12,
+    "location": "Chennai",
+    "demand": 28
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 431,
+    "location": "Bangalore",
+    "demand": 536
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 62,
+    "location": "Bangalore",
+    "demand": 160
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 34,
+    "location": "Bangalore",
+    "demand": 90
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 287,
+    "location": "Delhi",
+    "demand": 328
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 90,
+    "location": "Delhi",
+    "demand": 166
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 57,
+    "location": "Chennai",
+    "demand": 94
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 198,
+    "location": "Bangalore",
+    "demand": 239
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 113,
+    "location": "Chennai",
+    "demand": 180
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 9,
+    "location": "Mumbai",
+    "demand": 17
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 22,
+    "location": "Chennai",
+    "demand": 50
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 330,
+    "location": "Kolkata",
+    "demand": 478
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 64,
+    "location": "Chennai",
+    "demand": 113
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 30,
+    "location": "Delhi",
+    "demand": 71
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 12,
+    "location": "Delhi",
+    "demand": 26
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 63,
+    "location": "Chennai",
+    "demand": 93
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 467,
+    "location": "Mumbai",
+    "demand": 493
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 91,
+    "location": "Kolkata",
+    "demand": 106
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 203,
+    "location": "Mumbai",
+    "demand": 279
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 457,
+    "location": "Kolkata",
+    "demand": 638
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 79,
+    "location": "Delhi",
+    "demand": 99
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 180,
+    "location": "Chennai",
+    "demand": 185
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 46,
+    "location": "Delhi",
+    "demand": 57
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 256,
+    "location": "Chennai",
+    "demand": 327
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 156,
+    "location": "Delhi",
+    "demand": 222
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 174,
+    "location": "Mumbai",
+    "demand": 364
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 102,
+    "location": "Chennai",
+    "demand": 158
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 187,
+    "location": "Mumbai",
+    "demand": 250
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 119,
+    "location": "Chennai",
+    "demand": 158
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 86,
+    "location": "Kolkata",
+    "demand": 176
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 85,
+    "location": "Kolkata",
+    "demand": 175
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 335,
+    "location": "Chennai",
+    "demand": 375
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 413,
+    "location": "Chennai",
+    "demand": 518
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 255,
+    "location": "Chennai",
+    "demand": 452
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 22,
+    "location": "Delhi",
+    "demand": 111
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 156,
+    "location": "Bangalore",
+    "demand": 273
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 161,
+    "location": "Delhi",
+    "demand": 208
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 175,
+    "location": "Delhi",
+    "demand": 256
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 474,
+    "location": "Chennai",
+    "demand": 593
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 486,
+    "location": "Bangalore",
+    "demand": 520
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 196,
+    "location": "Kolkata",
+    "demand": 237
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 93,
+    "location": "Delhi",
+    "demand": 104
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 59,
+    "location": "Delhi",
+    "demand": 91
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 51,
+    "location": "Bangalore",
+    "demand": 127
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 136,
+    "location": "Mumbai",
+    "demand": 174
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 194,
+    "location": "Chennai",
+    "demand": 279
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 76,
+    "location": "Kolkata",
+    "demand": 107
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 132,
+    "location": "Kolkata",
+    "demand": 204
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 175,
+    "location": "Bangalore",
+    "demand": 253
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 160,
+    "location": "Mumbai",
+    "demand": 201
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 55,
+    "location": "Mumbai",
+    "demand": 105
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 248,
+    "location": "Chennai",
+    "demand": 276
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 97,
+    "location": "Delhi",
+    "demand": 151
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 262,
+    "location": "Kolkata",
+    "demand": 325
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 53,
+    "location": "Mumbai",
+    "demand": 131
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 74,
+    "location": "Delhi",
+    "demand": 96
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 13,
+    "location": "Bangalore",
+    "demand": 19
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 17,
+    "location": "Kolkata",
+    "demand": 52
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 22,
+    "location": "Bangalore",
+    "demand": 32
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 76,
+    "location": "Kolkata",
+    "demand": 172
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 60,
+    "location": "Chennai",
+    "demand": 143
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 334,
+    "location": "Kolkata",
+    "demand": 426
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 53,
+    "location": "Mumbai",
+    "demand": 81
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 93,
+    "location": "Mumbai",
+    "demand": 181
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 167,
+    "location": "Kolkata",
+    "demand": 182
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 97,
+    "location": "Delhi",
+    "demand": 112
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 451,
+    "location": "Chennai",
+    "demand": 524
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 39,
+    "location": "Kolkata",
+    "demand": 99
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 174,
+    "location": "Chennai",
+    "demand": 242
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 462,
+    "location": "Delhi",
+    "demand": 535
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 29,
+    "location": "Bangalore",
+    "demand": 62
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 135,
+    "location": "Delhi",
+    "demand": 222
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 107,
+    "location": "Bangalore",
+    "demand": 158
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 87,
+    "location": "Mumbai",
+    "demand": 147
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 399,
+    "location": "Bangalore",
+    "demand": 434
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 182,
+    "location": "Mumbai",
+    "demand": 205
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 175,
+    "location": "Kolkata",
+    "demand": 234
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 8,
+    "location": "Delhi",
+    "demand": 21
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 43,
+    "location": "Chennai",
+    "demand": 75
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 167,
+    "location": "Mumbai",
+    "demand": 245
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 168,
+    "location": "Mumbai",
+    "demand": 193
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 95,
+    "location": "Mumbai",
+    "demand": 166
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 64,
+    "location": "Mumbai",
+    "demand": 120
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 55,
+    "location": "Chennai",
+    "demand": 132
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 283,
+    "location": "Chennai",
+    "demand": 433
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 131,
+    "location": "Kolkata",
+    "demand": 236
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 84,
+    "location": "Chennai",
+    "demand": 91
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 89,
+    "location": "Kolkata",
+    "demand": 128
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 157,
+    "location": "Mumbai",
+    "demand": 267
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 380,
+    "location": "Delhi",
+    "demand": 411
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 82,
+    "location": "Chennai",
+    "demand": 116
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 183,
+    "location": "Bangalore",
+    "demand": 264
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 60,
+    "location": "Bangalore",
+    "demand": 65
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 225,
+    "location": "Kolkata",
+    "demand": 289
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 52,
+    "location": "Bangalore",
+    "demand": 143
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 100,
+    "location": "Kolkata",
+    "demand": 163
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 93,
+    "location": "Bangalore",
+    "demand": 129
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 476,
+    "location": "Bangalore",
+    "demand": 535
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 92,
+    "location": "Delhi",
+    "demand": 106
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 66,
+    "location": "Kolkata",
+    "demand": 77
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 99,
+    "location": "Delhi",
+    "demand": 112
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 116,
+    "location": "Kolkata",
+    "demand": 136
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 428,
+    "location": "Bangalore",
+    "demand": 611
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 50,
+    "location": "Kolkata",
+    "demand": 59
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 442,
+    "location": "Delhi",
+    "demand": 602
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 389,
+    "location": "Kolkata",
+    "demand": 418
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 72,
+    "location": "Mumbai",
+    "demand": 126
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 72,
+    "location": "Bangalore",
+    "demand": 86
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 97,
+    "location": "Mumbai",
+    "demand": 192
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 34,
+    "location": "Chennai",
+    "demand": 40
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 451,
+    "location": "Kolkata",
+    "demand": 563
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 164,
+    "location": "Chennai",
+    "demand": 221
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 124,
+    "location": "Kolkata",
+    "demand": 145
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 96,
+    "location": "Delhi",
+    "demand": 146
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 42,
+    "location": "Kolkata",
+    "demand": 88
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 486,
+    "location": "Bangalore",
+    "demand": 582
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 39,
+    "location": "Kolkata",
+    "demand": 69
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 28,
+    "location": "Bangalore",
+    "demand": 107
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 24,
+    "location": "Bangalore",
+    "demand": 70
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 143,
+    "location": "Kolkata",
+    "demand": 212
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 105,
+    "location": "Chennai",
+    "demand": 133
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 96,
+    "location": "Kolkata",
+    "demand": 136
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 129,
+    "location": "Chennai",
+    "demand": 217
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 101,
+    "location": "Delhi",
+    "demand": 145
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 61,
+    "location": "Kolkata",
+    "demand": 169
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 43,
+    "location": "Mumbai",
+    "demand": 83
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 157,
+    "location": "Bangalore",
+    "demand": 216
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 38,
+    "location": "Bangalore",
+    "demand": 63
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 147,
+    "location": "Mumbai",
+    "demand": 200
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 285,
+    "location": "Delhi",
+    "demand": 335
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 49,
+    "location": "Chennai",
+    "demand": 97
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 187,
+    "location": "Bangalore",
+    "demand": 320
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 131,
+    "location": "Mumbai",
+    "demand": 178
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 98,
+    "location": "Bangalore",
+    "demand": 130
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 41,
+    "location": "Bangalore",
+    "demand": 72
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 49,
+    "location": "Mumbai",
+    "demand": 135
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 80,
+    "location": "Delhi",
+    "demand": 159
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 208,
+    "location": "Kolkata",
+    "demand": 281
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 20,
+    "location": "Mumbai",
+    "demand": 31
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 335,
+    "location": "Mumbai",
+    "demand": 421
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 147,
+    "location": "Delhi",
+    "demand": 185
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 49,
+    "location": "Mumbai",
+    "demand": 78
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 130,
+    "location": "Kolkata",
+    "demand": 238
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 22,
+    "location": "Delhi",
+    "demand": 34
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 34,
+    "location": "Chennai",
+    "demand": 91
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 168,
+    "location": "Bangalore",
+    "demand": 195
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 60,
+    "location": "Kolkata",
+    "demand": 119
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 189,
+    "location": "Chennai",
+    "demand": 249
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 58,
+    "location": "Chennai",
+    "demand": 105
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 272,
+    "location": "Kolkata",
+    "demand": 315
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 235,
+    "location": "Delhi",
+    "demand": 283
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 242,
+    "location": "Delhi",
+    "demand": 300
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 42,
+    "location": "Delhi",
+    "demand": 95
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 116,
+    "location": "Mumbai",
+    "demand": 210
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 11,
+    "location": "Delhi",
+    "demand": 46
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 38,
+    "location": "Delhi",
+    "demand": 61
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 104,
+    "location": "Mumbai",
+    "demand": 297
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 281,
+    "location": "Kolkata",
+    "demand": 472
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 61,
+    "location": "Chennai",
+    "demand": 123
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 101,
+    "location": "Kolkata",
+    "demand": 200
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 89,
+    "location": "Chennai",
+    "demand": 111
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 77,
+    "location": "Mumbai",
+    "demand": 237
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 106,
+    "location": "Bangalore",
+    "demand": 164
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 16,
+    "location": "Mumbai",
+    "demand": 31
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 67,
+    "location": "Bangalore",
+    "demand": 153
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 8,
+    "location": "Bangalore",
+    "demand": 40
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 21,
+    "location": "Bangalore",
+    "demand": 41
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 47,
+    "location": "Mumbai",
+    "demand": 88
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 205,
+    "location": "Chennai",
+    "demand": 219
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 73,
+    "location": "Mumbai",
+    "demand": 107
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 171,
+    "location": "Mumbai",
+    "demand": 264
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 17,
+    "location": "Kolkata",
+    "demand": 26
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 284,
+    "location": "Mumbai",
+    "demand": 359
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 184,
+    "location": "Chennai",
+    "demand": 278
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 37,
+    "location": "Chennai",
+    "demand": 87
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 30,
+    "location": "Delhi",
+    "demand": 91
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 64,
+    "location": "Chennai",
+    "demand": 112
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 13,
+    "location": "Kolkata",
+    "demand": 96
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 349,
+    "location": "Kolkata",
+    "demand": 507
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 487,
+    "location": "Chennai",
+    "demand": 545
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 130,
+    "location": "Mumbai",
+    "demand": 160
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 299,
+    "location": "Kolkata",
+    "demand": 358
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 94,
+    "location": "Bangalore",
+    "demand": 137
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 33,
+    "location": "Chennai",
+    "demand": 66
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 44,
+    "location": "Bangalore",
+    "demand": 133
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 164,
+    "location": "Mumbai",
+    "demand": 241
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 116,
+    "location": "Kolkata",
+    "demand": 164
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 99,
+    "location": "Delhi",
+    "demand": 133
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 144,
+    "location": "Chennai",
+    "demand": 180
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 28,
+    "location": "Kolkata",
+    "demand": 50
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 109,
+    "location": "Delhi",
+    "demand": 148
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 94,
+    "location": "Chennai",
+    "demand": 145
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 16,
+    "location": "Bangalore",
+    "demand": 74
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 84,
+    "location": "Bangalore",
+    "demand": 123
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 149,
+    "location": "Chennai",
+    "demand": 173
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 59,
+    "location": "Kolkata",
+    "demand": 173
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 374,
+    "location": "Delhi",
+    "demand": 515
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 15,
+    "location": "Bangalore",
+    "demand": 49
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 183,
+    "location": "Delhi",
+    "demand": 192
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 207,
+    "location": "Kolkata",
+    "demand": 242
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 92,
+    "location": "Bangalore",
+    "demand": 188
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 6,
+    "location": "Kolkata",
+    "demand": 55
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 108,
+    "location": "Bangalore",
+    "demand": 178
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 28,
+    "location": "Mumbai",
+    "demand": 39
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 40,
+    "location": "Kolkata",
+    "demand": 60
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 350,
+    "location": "Chennai",
+    "demand": 388
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 254,
+    "location": "Bangalore",
+    "demand": 264
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 94,
+    "location": "Delhi",
+    "demand": 115
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 135,
+    "location": "Bangalore",
+    "demand": 160
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 53,
+    "location": "Delhi",
+    "demand": 143
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 23,
+    "location": "Bangalore",
+    "demand": 40
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 206,
+    "location": "Delhi",
+    "demand": 253
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 33,
+    "location": "Bangalore",
+    "demand": 48
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 210,
+    "location": "Chennai",
+    "demand": 237
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 449,
+    "location": "Kolkata",
+    "demand": 511
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 154,
+    "location": "Kolkata",
+    "demand": 236
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 96,
+    "location": "Bangalore",
+    "demand": 134
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 172,
+    "location": "Chennai",
+    "demand": 181
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 77,
+    "location": "Delhi",
+    "demand": 118
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 27,
+    "location": "Chennai",
+    "demand": 69
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 360,
+    "location": "Kolkata",
+    "demand": 448
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 176,
+    "location": "Mumbai",
+    "demand": 321
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 43,
+    "location": "Bangalore",
+    "demand": 57
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 80,
+    "location": "Delhi",
+    "demand": 130
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 239,
+    "location": "Kolkata",
+    "demand": 265
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 96,
+    "location": "Kolkata",
+    "demand": 129
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 48,
+    "location": "Chennai",
+    "demand": 107
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 105,
+    "location": "Bangalore",
+    "demand": 128
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 133,
+    "location": "Mumbai",
+    "demand": 154
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 63,
+    "location": "Bangalore",
+    "demand": 79
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 23,
+    "location": "Delhi",
+    "demand": 69
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 100,
+    "location": "Mumbai",
+    "demand": 189
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 103,
+    "location": "Delhi",
+    "demand": 165
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 41,
+    "location": "Chennai",
+    "demand": 85
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 37,
+    "location": "Delhi",
+    "demand": 43
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 77,
+    "location": "Kolkata",
+    "demand": 197
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 168,
+    "location": "Chennai",
+    "demand": 219
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 252,
+    "location": "Bangalore",
+    "demand": 416
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 158,
+    "location": "Kolkata",
+    "demand": 252
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 46,
+    "location": "Bangalore",
+    "demand": 51
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 107,
+    "location": "Delhi",
+    "demand": 291
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 23,
+    "location": "Mumbai",
+    "demand": 92
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 41,
+    "location": "Kolkata",
+    "demand": 77
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 392,
+    "location": "Delhi",
+    "demand": 427
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 449,
+    "location": "Bangalore",
+    "demand": 568
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 11,
+    "location": "Bangalore",
+    "demand": 61
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 61,
+    "location": "Kolkata",
+    "demand": 133
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 63,
+    "location": "Kolkata",
+    "demand": 94
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 99,
+    "location": "Mumbai",
+    "demand": 166
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 147,
+    "location": "Chennai",
+    "demand": 202
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 93,
+    "location": "Chennai",
+    "demand": 136
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 284,
+    "location": "Mumbai",
+    "demand": 350
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 156,
+    "location": "Chennai",
+    "demand": 169
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 37,
+    "location": "Kolkata",
+    "demand": 61
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 257,
+    "location": "Delhi",
+    "demand": 345
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 57,
+    "location": "Delhi",
+    "demand": 82
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 283,
+    "location": "Delhi",
+    "demand": 322
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 274,
+    "location": "Kolkata",
+    "demand": 307
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 71,
+    "location": "Delhi",
+    "demand": 99
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 125,
+    "location": "Delhi",
+    "demand": 224
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 37,
+    "location": "Kolkata",
+    "demand": 116
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 11,
+    "location": "Chennai",
+    "demand": 24
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 18,
+    "location": "Chennai",
+    "demand": 36
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 86,
+    "location": "Chennai",
+    "demand": 108
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 72,
+    "location": "Delhi",
+    "demand": 182
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 481,
+    "location": "Mumbai",
+    "demand": 594
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 142,
+    "location": "Chennai",
+    "demand": 147
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 161,
+    "location": "Delhi",
+    "demand": 231
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 54,
+    "location": "Mumbai",
+    "demand": 73
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 132,
+    "location": "Delhi",
+    "demand": 271
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 483,
+    "location": "Chennai",
+    "demand": 640
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 472,
+    "location": "Mumbai",
+    "demand": 514
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 194,
+    "location": "Kolkata",
+    "demand": 222
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 87,
+    "location": "Bangalore",
+    "demand": 137
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 255,
+    "location": "Mumbai",
+    "demand": 316
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 88,
+    "location": "Chennai",
+    "demand": 98
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 60,
+    "location": "Kolkata",
+    "demand": 66
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 56,
+    "location": "Kolkata",
+    "demand": 89
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 276,
+    "location": "Bangalore",
+    "demand": 447
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 52,
+    "location": "Kolkata",
+    "demand": 102
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 79,
+    "location": "Mumbai",
+    "demand": 125
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 268,
+    "location": "Bangalore",
+    "demand": 322
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 76,
+    "location": "Bangalore",
+    "demand": 98
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 23,
+    "location": "Mumbai",
+    "demand": 68
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 57,
+    "location": "Kolkata",
+    "demand": 72
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 93,
+    "location": "Delhi",
+    "demand": 151
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 461,
+    "location": "Mumbai",
+    "demand": 592
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 151,
+    "location": "Mumbai",
+    "demand": 219
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 300,
+    "location": "Mumbai",
+    "demand": 340
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 338,
+    "location": "Kolkata",
+    "demand": 457
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 356,
+    "location": "Delhi",
+    "demand": 388
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 116,
+    "location": "Delhi",
+    "demand": 152
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 42,
+    "location": "Delhi",
+    "demand": 77
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 389,
+    "location": "Delhi",
+    "demand": 550
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 82,
+    "location": "Mumbai",
+    "demand": 90
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 274,
+    "location": "Mumbai",
+    "demand": 342
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 164,
+    "location": "Delhi",
+    "demand": 194
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 72,
+    "location": "Mumbai",
+    "demand": 82
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 166,
+    "location": "Bangalore",
+    "demand": 202
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 57,
+    "location": "Delhi",
+    "demand": 143
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 374,
+    "location": "Kolkata",
+    "demand": 447
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 80,
+    "location": "Mumbai",
+    "demand": 248
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 109,
+    "location": "Mumbai",
+    "demand": 208
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 103,
+    "location": "Delhi",
+    "demand": 140
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 49,
+    "location": "Chennai",
+    "demand": 110
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 249,
+    "location": "Bangalore",
+    "demand": 321
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 8,
+    "location": "Mumbai",
+    "demand": 35
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 452,
+    "location": "Mumbai",
+    "demand": 575
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 102,
+    "location": "Delhi",
+    "demand": 146
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 42,
+    "location": "Kolkata",
+    "demand": 64
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 423,
+    "location": "Bangalore",
+    "demand": 544
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 157,
+    "location": "Bangalore",
+    "demand": 252
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 320,
+    "location": "Mumbai",
+    "demand": 361
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 43,
+    "location": "Chennai",
+    "demand": 73
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 120,
+    "location": "Chennai",
+    "demand": 149
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 90,
+    "location": "Delhi",
+    "demand": 108
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 25,
+    "location": "Chennai",
+    "demand": 58
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 92,
+    "location": "Chennai",
+    "demand": 107
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 101,
+    "location": "Bangalore",
+    "demand": 129
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 495,
+    "location": "Bangalore",
+    "demand": 573
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 443,
+    "location": "Delhi",
+    "demand": 595
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 97,
+    "location": "Mumbai",
+    "demand": 144
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 71,
+    "location": "Delhi",
+    "demand": 111
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 123,
+    "location": "Kolkata",
+    "demand": 194
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 337,
+    "location": "Kolkata",
+    "demand": 421
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 248,
+    "location": "Mumbai",
+    "demand": 389
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 452,
+    "location": "Chennai",
+    "demand": 474
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 99,
+    "location": "Kolkata",
+    "demand": 106
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 69,
+    "location": "Kolkata",
+    "demand": 117
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 112,
+    "location": "Mumbai",
+    "demand": 276
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 56,
+    "location": "Mumbai",
+    "demand": 125
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 95,
+    "location": "Bangalore",
+    "demand": 122
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 148,
+    "location": "Bangalore",
+    "demand": 219
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 157,
+    "location": "Mumbai",
+    "demand": 196
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 237,
+    "location": "Delhi",
+    "demand": 248
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 335,
+    "location": "Delhi",
+    "demand": 381
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 57,
+    "location": "Bangalore",
+    "demand": 133
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 61,
+    "location": "Kolkata",
+    "demand": 89
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 207,
+    "location": "Delhi",
+    "demand": 257
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 81,
+    "location": "Chennai",
+    "demand": 153
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 451,
+    "location": "Chennai",
+    "demand": 617
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 334,
+    "location": "Chennai",
+    "demand": 487
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 160,
+    "location": "Mumbai",
+    "demand": 200
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 165,
+    "location": "Kolkata",
+    "demand": 224
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 199,
+    "location": "Chennai",
+    "demand": 295
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 80,
+    "location": "Bangalore",
+    "demand": 280
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 79,
+    "location": "Chennai",
+    "demand": 126
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 69,
+    "location": "Bangalore",
+    "demand": 81
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 256,
+    "location": "Chennai",
+    "demand": 285
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 436,
+    "location": "Kolkata",
+    "demand": 590
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 426,
+    "location": "Mumbai",
+    "demand": 555
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 93,
+    "location": "Delhi",
+    "demand": 134
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 176,
+    "location": "Mumbai",
+    "demand": 269
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 260,
+    "location": "Kolkata",
+    "demand": 310
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 112,
+    "location": "Delhi",
+    "demand": 154
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 54,
+    "location": "Mumbai",
+    "demand": 95
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 146,
+    "location": "Mumbai",
+    "demand": 210
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 93,
+    "location": "Bangalore",
+    "demand": 139
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 75,
+    "location": "Delhi",
+    "demand": 190
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 40,
+    "location": "Chennai",
+    "demand": 57
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 278,
+    "location": "Delhi",
+    "demand": 343
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 35,
+    "location": "Bangalore",
+    "demand": 49
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 146,
+    "location": "Kolkata",
+    "demand": 216
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 60,
+    "location": "Chennai",
+    "demand": 115
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 424,
+    "location": "Kolkata",
+    "demand": 584
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 293,
+    "location": "Mumbai",
+    "demand": 461
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 159,
+    "location": "Kolkata",
+    "demand": 173
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 107,
+    "location": "Mumbai",
+    "demand": 188
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 31,
+    "location": "Chennai",
+    "demand": 67
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 72,
+    "location": "Kolkata",
+    "demand": 103
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 161,
+    "location": "Kolkata",
+    "demand": 247
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 282,
+    "location": "Kolkata",
+    "demand": 388
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 298,
+    "location": "Bangalore",
+    "demand": 331
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 107,
+    "location": "Mumbai",
+    "demand": 215
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 95,
+    "location": "Chennai",
+    "demand": 116
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 31,
+    "location": "Mumbai",
+    "demand": 75
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 192,
+    "location": "Delhi",
+    "demand": 227
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 410,
+    "location": "Chennai",
+    "demand": 602
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 289,
+    "location": "Delhi",
+    "demand": 357
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 268,
+    "location": "Chennai",
+    "demand": 301
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 258,
+    "location": "Mumbai",
+    "demand": 324
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 165,
+    "location": "Chennai",
+    "demand": 228
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 56,
+    "location": "Chennai",
+    "demand": 76
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 40,
+    "location": "Kolkata",
+    "demand": 80
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 124,
+    "location": "Mumbai",
+    "demand": 145
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 218,
+    "location": "Mumbai",
+    "demand": 413
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 32,
+    "location": "Kolkata",
+    "demand": 73
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 273,
+    "location": "Mumbai",
+    "demand": 279
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 208,
+    "location": "Kolkata",
+    "demand": 282
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 133,
+    "location": "Bangalore",
+    "demand": 204
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 92,
+    "location": "Kolkata",
+    "demand": 109
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 224,
+    "location": "Kolkata",
+    "demand": 283
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 130,
+    "location": "Chennai",
+    "demand": 181
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 119,
+    "location": "Kolkata",
+    "demand": 144
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 180,
+    "location": "Bangalore",
+    "demand": 276
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 277,
+    "location": "Mumbai",
+    "demand": 443
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 23,
+    "location": "Bangalore",
+    "demand": 48
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 58,
+    "location": "Mumbai",
+    "demand": 66
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 403,
+    "location": "Mumbai",
+    "demand": 456
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 298,
+    "location": "Kolkata",
+    "demand": 322
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 372,
+    "location": "Bangalore",
+    "demand": 514
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 44,
+    "location": "Chennai",
+    "demand": 68
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 209,
+    "location": "Chennai",
+    "demand": 240
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 37,
+    "location": "Mumbai",
+    "demand": 95
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 28,
+    "location": "Mumbai",
+    "demand": 101
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 160,
+    "location": "Delhi",
+    "demand": 211
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 41,
+    "location": "Bangalore",
+    "demand": 86
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 195,
+    "location": "Delhi",
+    "demand": 225
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 53,
+    "location": "Mumbai",
+    "demand": 128
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 180,
+    "location": "Delhi",
+    "demand": 251
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 67,
+    "location": "Bangalore",
+    "demand": 98
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 85,
+    "location": "Bangalore",
+    "demand": 138
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 311,
+    "location": "Kolkata",
+    "demand": 489
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 268,
+    "location": "Kolkata",
+    "demand": 366
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 12,
+    "location": "Delhi",
+    "demand": 77
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 457,
+    "location": "Bangalore",
+    "demand": 499
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 38,
+    "location": "Delhi",
+    "demand": 97
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 192,
+    "location": "Kolkata",
+    "demand": 242
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 140,
+    "location": "Mumbai",
+    "demand": 211
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 174,
+    "location": "Chennai",
+    "demand": 238
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 49,
+    "location": "Bangalore",
+    "demand": 57
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 99,
+    "location": "Chennai",
+    "demand": 128
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 99,
+    "location": "Bangalore",
+    "demand": 192
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 126,
+    "location": "Delhi",
+    "demand": 146
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 32,
+    "location": "Chennai",
+    "demand": 44
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 378,
+    "location": "Mumbai",
+    "demand": 461
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 125,
+    "location": "Mumbai",
+    "demand": 130
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 92,
+    "location": "Mumbai",
+    "demand": 107
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 71,
+    "location": "Delhi",
+    "demand": 121
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 195,
+    "location": "Bangalore",
+    "demand": 289
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 63,
+    "location": "Chennai",
+    "demand": 76
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 99,
+    "location": "Chennai",
+    "demand": 139
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 136,
+    "location": "Kolkata",
+    "demand": 199
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 397,
+    "location": "Chennai",
+    "demand": 418
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 42,
+    "location": "Bangalore",
+    "demand": 61
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 129,
+    "location": "Mumbai",
+    "demand": 199
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 29,
+    "location": "Mumbai",
+    "demand": 113
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 10,
+    "location": "Kolkata",
+    "demand": 41
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 340,
+    "location": "Bangalore",
+    "demand": 429
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 93,
+    "location": "Delhi",
+    "demand": 143
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 76,
+    "location": "Bangalore",
+    "demand": 91
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 28,
+    "location": "Chennai",
+    "demand": 54
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 253,
+    "location": "Kolkata",
+    "demand": 394
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 191,
+    "location": "Mumbai",
+    "demand": 224
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 57,
+    "location": "Chennai",
+    "demand": 142
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 21,
+    "location": "Kolkata",
+    "demand": 69
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 100,
+    "location": "Bangalore",
+    "demand": 138
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 215,
+    "location": "Bangalore",
+    "demand": 318
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 187,
+    "location": "Mumbai",
+    "demand": 214
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 27,
+    "location": "Mumbai",
+    "demand": 42
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 269,
+    "location": "Delhi",
+    "demand": 432
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 370,
+    "location": "Delhi",
+    "demand": 423
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 81,
+    "location": "Chennai",
+    "demand": 100
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 107,
+    "location": "Delhi",
+    "demand": 142
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 66,
+    "location": "Mumbai",
+    "demand": 138
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 121,
+    "location": "Delhi",
+    "demand": 143
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 48,
+    "location": "Delhi",
+    "demand": 112
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 105,
+    "location": "Chennai",
+    "demand": 174
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 443,
+    "location": "Chennai",
+    "demand": 629
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 15,
+    "location": "Chennai",
+    "demand": 36
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 114,
+    "location": "Mumbai",
+    "demand": 140
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 77,
+    "location": "Bangalore",
+    "demand": 146
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 89,
+    "location": "Bangalore",
+    "demand": 141
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 422,
+    "location": "Chennai",
+    "demand": 607
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 378,
+    "location": "Chennai",
+    "demand": 464
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 346,
+    "location": "Mumbai",
+    "demand": 439
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 79,
+    "location": "Mumbai",
+    "demand": 162
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 273,
+    "location": "Mumbai",
+    "demand": 338
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 161,
+    "location": "Delhi",
+    "demand": 197
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 384,
+    "location": "Mumbai",
+    "demand": 569
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 146,
+    "location": "Bangalore",
+    "demand": 158
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 57,
+    "location": "Chennai",
+    "demand": 68
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 30,
+    "location": "Kolkata",
+    "demand": 51
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 23,
+    "location": "Chennai",
+    "demand": 61
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 274,
+    "location": "Kolkata",
+    "demand": 280
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 288,
+    "location": "Delhi",
+    "demand": 339
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 244,
+    "location": "Chennai",
+    "demand": 261
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 12,
+    "location": "Mumbai",
+    "demand": 31
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 145,
+    "location": "Kolkata",
+    "demand": 222
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 93,
+    "location": "Mumbai",
+    "demand": 168
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 93,
+    "location": "Chennai",
+    "demand": 147
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 116,
+    "location": "Bangalore",
+    "demand": 189
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 338,
+    "location": "Mumbai",
+    "demand": 405
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 184,
+    "location": "Mumbai",
+    "demand": 206
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 179,
+    "location": "Bangalore",
+    "demand": 237
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 103,
+    "location": "Chennai",
+    "demand": 110
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 443,
+    "location": "Chennai",
+    "demand": 550
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 87,
+    "location": "Chennai",
+    "demand": 132
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 17,
+    "location": "Mumbai",
+    "demand": 41
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 268,
+    "location": "Kolkata",
+    "demand": 275
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 103,
+    "location": "Bangalore",
+    "demand": 282
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 231,
+    "location": "Kolkata",
+    "demand": 346
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 36,
+    "location": "Chennai",
+    "demand": 60
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 95,
+    "location": "Bangalore",
+    "demand": 103
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 48,
+    "location": "Kolkata",
+    "demand": 132
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 188,
+    "location": "Kolkata",
+    "demand": 230
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 89,
+    "location": "Mumbai",
+    "demand": 122
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 191,
+    "location": "Chennai",
+    "demand": 233
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 395,
+    "location": "Bangalore",
+    "demand": 520
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 78,
+    "location": "Bangalore",
+    "demand": 147
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 53,
+    "location": "Kolkata",
+    "demand": 103
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 81,
+    "location": "Kolkata",
+    "demand": 96
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 170,
+    "location": "Kolkata",
+    "demand": 242
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 67,
+    "location": "Mumbai",
+    "demand": 131
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 134,
+    "location": "Delhi",
+    "demand": 178
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 173,
+    "location": "Bangalore",
+    "demand": 272
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 155,
+    "location": "Bangalore",
+    "demand": 246
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 110,
+    "location": "Mumbai",
+    "demand": 164
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 124,
+    "location": "Kolkata",
+    "demand": 191
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 147,
+    "location": "Delhi",
+    "demand": 199
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 33,
+    "location": "Delhi",
+    "demand": 86
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 184,
+    "location": "Chennai",
+    "demand": 200
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 34,
+    "location": "Delhi",
+    "demand": 103
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 264,
+    "location": "Mumbai",
+    "demand": 287
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 192,
+    "location": "Kolkata",
+    "demand": 232
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 167,
+    "location": "Mumbai",
+    "demand": 215
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 88,
+    "location": "Mumbai",
+    "demand": 93
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 204,
+    "location": "Delhi",
+    "demand": 281
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 413,
+    "location": "Chennai",
+    "demand": 575
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 37,
+    "location": "Mumbai",
+    "demand": 76
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 23,
+    "location": "Chennai",
+    "demand": 49
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 13,
+    "location": "Chennai",
+    "demand": 42
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 42,
+    "location": "Mumbai",
+    "demand": 74
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 149,
+    "location": "Mumbai",
+    "demand": 233
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 48,
+    "location": "Delhi",
+    "demand": 57
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 395,
+    "location": "Bangalore",
+    "demand": 499
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 288,
+    "location": "Bangalore",
+    "demand": 312
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 25,
+    "location": "Delhi",
+    "demand": 44
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 191,
+    "location": "Chennai",
+    "demand": 199
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 124,
+    "location": "Chennai",
+    "demand": 157
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 216,
+    "location": "Bangalore",
+    "demand": 227
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 107,
+    "location": "Bangalore",
+    "demand": 184
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 56,
+    "location": "Chennai",
+    "demand": 80
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 291,
+    "location": "Chennai",
+    "demand": 355
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 121,
+    "location": "Chennai",
+    "demand": 132
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 200,
+    "location": "Delhi",
+    "demand": 245
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 26,
+    "location": "Kolkata",
+    "demand": 56
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 99,
+    "location": "Bangalore",
+    "demand": 142
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 26,
+    "location": "Delhi",
+    "demand": 68
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 27,
+    "location": "Delhi",
+    "demand": 72
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 213,
+    "location": "Mumbai",
+    "demand": 284
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 26,
+    "location": "Kolkata",
+    "demand": 49
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 282,
+    "location": "Kolkata",
+    "demand": 357
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 439,
+    "location": "Chennai",
+    "demand": 600
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 48,
+    "location": "Chennai",
+    "demand": 95
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 165,
+    "location": "Chennai",
+    "demand": 293
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 139,
+    "location": "Kolkata",
+    "demand": 209
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 68,
+    "location": "Delhi",
+    "demand": 108
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 45,
+    "location": "Mumbai",
+    "demand": 58
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 58,
+    "location": "Bangalore",
+    "demand": 108
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 66,
+    "location": "Delhi",
+    "demand": 241
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 185,
+    "location": "Chennai",
+    "demand": 261
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 227,
+    "location": "Delhi",
+    "demand": 264
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 348,
+    "location": "Delhi",
+    "demand": 373
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 38,
+    "location": "Delhi",
+    "demand": 71
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 217,
+    "location": "Delhi",
+    "demand": 239
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 21,
+    "location": "Kolkata",
+    "demand": 67
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 174,
+    "location": "Kolkata",
+    "demand": 264
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 424,
+    "location": "Chennai",
+    "demand": 555
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 260,
+    "location": "Chennai",
+    "demand": 313
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 81,
+    "location": "Kolkata",
+    "demand": 106
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 171,
+    "location": "Delhi",
+    "demand": 195
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 220,
+    "location": "Chennai",
+    "demand": 283
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 55,
+    "location": "Chennai",
+    "demand": 114
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 416,
+    "location": "Delhi",
+    "demand": 555
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 105,
+    "location": "Mumbai",
+    "demand": 177
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 39,
+    "location": "Chennai",
+    "demand": 97
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 353,
+    "location": "Kolkata",
+    "demand": 393
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 100,
+    "location": "Bangalore",
+    "demand": 122
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 92,
+    "location": "Bangalore",
+    "demand": 189
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 410,
+    "location": "Kolkata",
+    "demand": 489
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 53,
+    "location": "Delhi",
+    "demand": 66
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 274,
+    "location": "Chennai",
+    "demand": 394
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 500,
+    "location": "Chennai",
+    "demand": 534
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 52,
+    "location": "Kolkata",
+    "demand": 99
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 89,
+    "location": "Chennai",
+    "demand": 143
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 175,
+    "location": "Delhi",
+    "demand": 208
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 123,
+    "location": "Chennai",
+    "demand": 198
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 238,
+    "location": "Kolkata",
+    "demand": 323
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 18,
+    "location": "Chennai",
+    "demand": 115
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 15,
+    "location": "Kolkata",
+    "demand": 26
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 21,
+    "location": "Kolkata",
+    "demand": 75
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 27,
+    "location": "Chennai",
+    "demand": 36
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 123,
+    "location": "Mumbai",
+    "demand": 196
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 31,
+    "location": "Kolkata",
+    "demand": 45
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 79,
+    "location": "Delhi",
+    "demand": 99
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 74,
+    "location": "Bangalore",
+    "demand": 149
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 22,
+    "location": "Bangalore",
+    "demand": 74
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 59,
+    "location": "Mumbai",
+    "demand": 72
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 67,
+    "location": "Mumbai",
+    "demand": 106
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 12,
+    "location": "Delhi",
+    "demand": 33
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 42,
+    "location": "Mumbai",
+    "demand": 135
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 66,
+    "location": "Bangalore",
+    "demand": 89
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 97,
+    "location": "Delhi",
+    "demand": 135
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 386,
+    "location": "Kolkata",
+    "demand": 453
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 115,
+    "location": "Bangalore",
+    "demand": 189
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 51,
+    "location": "Mumbai",
+    "demand": 93
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 216,
+    "location": "Kolkata",
+    "demand": 294
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 484,
+    "location": "Chennai",
+    "demand": 624
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 86,
+    "location": "Mumbai",
+    "demand": 116
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 86,
+    "location": "Bangalore",
+    "demand": 154
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 248,
+    "location": "Kolkata",
+    "demand": 376
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 7,
+    "location": "Mumbai",
+    "demand": 31
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 115,
+    "location": "Mumbai",
+    "demand": 163
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 311,
+    "location": "Mumbai",
+    "demand": 489
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 42,
+    "location": "Kolkata",
+    "demand": 56
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 378,
+    "location": "Chennai",
+    "demand": 513
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 36,
+    "location": "Bangalore",
+    "demand": 82
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 131,
+    "location": "Kolkata",
+    "demand": 225
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 323,
+    "location": "Bangalore",
+    "demand": 401
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 309,
+    "location": "Mumbai",
+    "demand": 459
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 14,
+    "location": "Mumbai",
+    "demand": 19
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 44,
+    "location": "Mumbai",
+    "demand": 104
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 56,
+    "location": "Delhi",
+    "demand": 105
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 119,
+    "location": "Delhi",
+    "demand": 136
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 183,
+    "location": "Chennai",
+    "demand": 270
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 100,
+    "location": "Delhi",
+    "demand": 151
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 57,
+    "location": "Delhi",
+    "demand": 101
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 237,
+    "location": "Bangalore",
+    "demand": 429
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 23,
+    "location": "Mumbai",
+    "demand": 76
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 201,
+    "location": "Mumbai",
+    "demand": 215
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 163,
+    "location": "Bangalore",
+    "demand": 260
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 149,
+    "location": "Kolkata",
+    "demand": 227
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 64,
+    "location": "Delhi",
+    "demand": 87
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 16,
+    "location": "Delhi",
+    "demand": 65
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 159,
+    "location": "Kolkata",
+    "demand": 247
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 116,
+    "location": "Mumbai",
+    "demand": 188
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 258,
+    "location": "Delhi",
+    "demand": 315
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 102,
+    "location": "Delhi",
+    "demand": 117
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 86,
+    "location": "Kolkata",
+    "demand": 179
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 177,
+    "location": "Bangalore",
+    "demand": 224
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 374,
+    "location": "Delhi",
+    "demand": 406
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 74,
+    "location": "Mumbai",
+    "demand": 158
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 85,
+    "location": "Delhi",
+    "demand": 95
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 229,
+    "location": "Kolkata",
+    "demand": 279
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 174,
+    "location": "Chennai",
+    "demand": 231
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 78,
+    "location": "Delhi",
+    "demand": 111
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 155,
+    "location": "Chennai",
+    "demand": 250
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 61,
+    "location": "Chennai",
+    "demand": 102
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 21,
+    "location": "Chennai",
+    "demand": 29
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 35,
+    "location": "Kolkata",
+    "demand": 51
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 319,
+    "location": "Delhi",
+    "demand": 418
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 405,
+    "location": "Delhi",
+    "demand": 540
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 259,
+    "location": "Kolkata",
+    "demand": 293
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 19,
+    "location": "Bangalore",
+    "demand": 86
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 99,
+    "location": "Kolkata",
+    "demand": 196
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 223,
+    "location": "Kolkata",
+    "demand": 251
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 204,
+    "location": "Chennai",
+    "demand": 241
+  },
+  {
+    "name": "Rice",
+    "type": "Medical",
+    "quantity": 111,
+    "location": "Mumbai",
+    "demand": 136
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 245,
+    "location": "Kolkata",
+    "demand": 436
+  },
+  {
+    "name": "Blankets",
+    "type": "Shelter",
+    "quantity": 28,
+    "location": "Mumbai",
+    "demand": 59
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 34,
+    "location": "Kolkata",
+    "demand": 133
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 134,
+    "location": "Mumbai",
+    "demand": 286
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 180,
+    "location": "Mumbai",
+    "demand": 197
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 304,
+    "location": "Bangalore",
+    "demand": 462
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 48,
+    "location": "Kolkata",
+    "demand": 112
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 13,
+    "location": "Chennai",
+    "demand": 18
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Clothing",
+    "quantity": 91,
+    "location": "Kolkata",
+    "demand": 123
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 31,
+    "location": "Kolkata",
+    "demand": 39
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 49,
+    "location": "Mumbai",
+    "demand": 91
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 67,
+    "location": "Mumbai",
+    "demand": 90
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 370,
+    "location": "Bangalore",
+    "demand": 563
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 265,
+    "location": "Kolkata",
+    "demand": 301
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 200,
+    "location": "Bangalore",
+    "demand": 255
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 171,
+    "location": "Delhi",
+    "demand": 186
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 119,
+    "location": "Kolkata",
+    "demand": 139
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 197,
+    "location": "Kolkata",
+    "demand": 315
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "quantity": 148,
+    "location": "Delhi",
+    "demand": 234
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 291,
+    "location": "Bangalore",
+    "demand": 334
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 32,
+    "location": "Delhi",
+    "demand": 58
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 41,
+    "location": "Kolkata",
+    "demand": 61
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 46,
+    "location": "Kolkata",
+    "demand": 64
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 33,
+    "location": "Delhi",
+    "demand": 85
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 50,
+    "location": "Kolkata",
+    "demand": 99
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 114,
+    "location": "Kolkata",
+    "demand": 175
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 36,
+    "location": "Kolkata",
+    "demand": 49
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 133,
+    "location": "Mumbai",
+    "demand": 176
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 100,
+    "location": "Delhi",
+    "demand": 129
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 9,
+    "location": "Delhi",
+    "demand": 21
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 207,
+    "location": "Delhi",
+    "demand": 246
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 229,
+    "location": "Chennai",
+    "demand": 237
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 167,
+    "location": "Kolkata",
+    "demand": 206
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 15,
+    "location": "Bangalore",
+    "demand": 55
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Clothing",
+    "quantity": 255,
+    "location": "Kolkata",
+    "demand": 310
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 95,
+    "location": "Bangalore",
+    "demand": 114
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 155,
+    "location": "Delhi",
+    "demand": 223
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 234,
+    "location": "Chennai",
+    "demand": 273
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 73,
+    "location": "Mumbai",
+    "demand": 103
+  },
+  {
+    "name": "Sugar",
+    "type": "Clothing",
+    "quantity": 198,
+    "location": "Mumbai",
+    "demand": 264
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 239,
+    "location": "Bangalore",
+    "demand": 280
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 205,
+    "location": "Delhi",
+    "demand": 322
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 131,
+    "location": "Bangalore",
+    "demand": 168
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Medical",
+    "quantity": 50,
+    "location": "Mumbai",
+    "demand": 80
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 92,
+    "location": "Kolkata",
+    "demand": 139
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 20,
+    "location": "Mumbai",
+    "demand": 69
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 43,
+    "location": "Kolkata",
+    "demand": 141
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 396,
+    "location": "Kolkata",
+    "demand": 541
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 71,
+    "location": "Delhi",
+    "demand": 140
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 21,
+    "location": "Mumbai",
+    "demand": 52
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 98,
+    "location": "Mumbai",
+    "demand": 106
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 176,
+    "location": "Bangalore",
+    "demand": 196
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 20,
+    "location": "Kolkata",
+    "demand": 34
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 47,
+    "location": "Mumbai",
+    "demand": 76
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 27,
+    "location": "Delhi",
+    "demand": 81
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 128,
+    "location": "Chennai",
+    "demand": 182
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Food",
+    "quantity": 448,
+    "location": "Chennai",
+    "demand": 566
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 27,
+    "location": "Chennai",
+    "demand": 64
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 13,
+    "location": "Delhi",
+    "demand": 20
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 347,
+    "location": "Mumbai",
+    "demand": 454
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 252,
+    "location": "Mumbai",
+    "demand": 399
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 340,
+    "location": "Delhi",
+    "demand": 470
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 61,
+    "location": "Kolkata",
+    "demand": 91
+  },
+  {
+    "name": "Blankets",
+    "type": "Clothing",
+    "quantity": 117,
+    "location": "Bangalore",
+    "demand": 158
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Medical",
+    "quantity": 150,
+    "location": "Kolkata",
+    "demand": 212
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 193,
+    "location": "Bangalore",
+    "demand": 271
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 103,
+    "location": "Kolkata",
+    "demand": 178
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 178,
+    "location": "Delhi",
+    "demand": 239
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 10,
+    "location": "Mumbai",
+    "demand": 23
+  },
+  {
+    "name": "Wheat",
+    "type": "Shelter",
+    "quantity": 10,
+    "location": "Delhi",
+    "demand": 25
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Shelter",
+    "quantity": 83,
+    "location": "Kolkata",
+    "demand": 94
+  },
+  {
+    "name": "Salt",
+    "type": "Shelter",
+    "quantity": 87,
+    "location": "Mumbai",
+    "demand": 130
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 459,
+    "location": "Delhi",
+    "demand": 509
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 51,
+    "location": "Delhi",
+    "demand": 81
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 54,
+    "location": "Mumbai",
+    "demand": 95
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Medical",
+    "quantity": 173,
+    "location": "Mumbai",
+    "demand": 205
+  },
+  {
+    "name": "Medicine Kit",
+    "type": "Shelter",
+    "quantity": 50,
+    "location": "Mumbai",
+    "demand": 84
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 101,
+    "location": "Chennai",
+    "demand": 166
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 478,
+    "location": "Chennai",
+    "demand": 515
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 84,
+    "location": "Chennai",
+    "demand": 109
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 94,
+    "location": "Chennai",
+    "demand": 117
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 295,
+    "location": "Chennai",
+    "demand": 304
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 128,
+    "location": "Bangalore",
+    "demand": 195
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 220,
+    "location": "Mumbai",
+    "demand": 275
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 127,
+    "location": "Chennai",
+    "demand": 300
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 165,
+    "location": "Mumbai",
+    "demand": 171
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 146,
+    "location": "Chennai",
+    "demand": 294
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 439,
+    "location": "Delhi",
+    "demand": 484
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 44,
+    "location": "Chennai",
+    "demand": 85
+  },
+  {
+    "name": "Rice",
+    "type": "Clothing",
+    "quantity": 256,
+    "location": "Mumbai",
+    "demand": 316
+  },
+  {
+    "name": "Sugar",
+    "type": "Food",
+    "quantity": 299,
+    "location": "Kolkata",
+    "demand": 430
+  },
+  {
+    "name": "Wheat",
+    "type": "Clothing",
+    "quantity": 21,
+    "location": "Delhi",
+    "demand": 31
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 61,
+    "location": "Delhi",
+    "demand": 88
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Food",
+    "quantity": 412,
+    "location": "Mumbai",
+    "demand": 432
+  },
+  {
+    "name": "Sugar",
+    "type": "Shelter",
+    "quantity": 52,
+    "location": "Delhi",
+    "demand": 76
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 52,
+    "location": "Chennai",
+    "demand": 92
+  },
+  {
+    "name": "Salt",
+    "type": "Food",
+    "quantity": 227,
+    "location": "Delhi",
+    "demand": 405
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Shelter",
+    "quantity": 35,
+    "location": "Delhi",
+    "demand": 80
+  },
+  {
+    "name": "Blankets",
+    "type": "Medical",
+    "quantity": 160,
+    "location": "Bangalore",
+    "demand": 215
+  },
+  {
+    "name": "Wheat",
+    "type": "Medical",
+    "quantity": 76,
+    "location": "Mumbai",
+    "demand": 174
+  },
+  {
+    "name": "Water Bottles",
+    "type": "Clothing",
+    "quantity": 79,
+    "location": "Bangalore",
+    "demand": 141
+  },
+  {
+    "name": "Salt",
+    "type": "Medical",
+    "quantity": 28,
+    "location": "Kolkata",
+    "demand": 128
+  },
+  {
+    "name": "Salt",
+    "type": "Clothing",
+    "quantity": 212,
+    "location": "Mumbai",
+    "demand": 257
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 477,
+    "location": "Bangalore",
+    "demand": 627
+  },
+  {
+    "name": "Rice",
+    "type": "Shelter",
+    "quantity": 32,
+    "location": "Bangalore",
+    "demand": 70
+  },
+  {
+    "name": "Milk Powder",
+    "type": "Food",
+    "quantity": 368,
+    "location": "Delhi",
+    "demand": 511
+  },
+  {
+    "name": "Rice",
+    "type": "Food",
+    "quantity": 97,
+    "location": "Delhi",
+    "demand": 262
+  },
+  {
+    "name": "Sugar",
+    "type": "Medical",
+    "quantity": 41,
+    "location": "Mumbai",
+    "demand": 139
+  },
+  {
+    "name": "Blankets",
+    "type": "Food",
+    "quantity": 244,
+    "location": "Delhi",
+    "demand": 421
+  }
+]
